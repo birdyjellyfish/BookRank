@@ -1,7 +1,5 @@
 # BookRank library
 # Social Graph-based book reccomendation system
-# with connection to NLB APIs
-# includes reading history tracker and score system
 
 import igraph as ig
 import pandas as pd
