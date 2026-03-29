@@ -22,6 +22,6 @@ Before usage of ```bookrank.py```, we need to setup the database and graph struc
 Example code is provided in [```demo.ipynb```](./demo.ipynb).
 
 ## Acknowledgements
-[```zygmuntz/goodbooks-10k```](https://github.com/malcolmosh/goodbooks-10k-extended)
+[```zygmuntz/goodbooks-10k```](https://github.com/zygmuntz/goodbooks-10k)
 
 [```malcolmosh/goodbooks-10k-extended```](https://github.com/malcolmosh/goodbooks-10k-extended)
